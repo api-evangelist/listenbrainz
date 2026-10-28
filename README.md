@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ListenBrainz is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://listenbrainz.org/
+ListenBrainz is an open music listening tracking platform that lets users record, explore, visualise and share the music they listen to. It provides a public API for accessing listening data, user profiles, and music metadata, enabling developers to build applications and services around music listening habits.
+
+**Areas:** Music · OpenSource · Community · DataAPI · Listening
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://listenbrainz.org/)
+- [Documentation](https://listenbrainz.org/docs/)
+- [Getting started](https://listenbrainz.org/docs/#getting-started)
+- [API reference](https://api.listenbrainz.org/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/listenbrainz/](https://apis.io/providers/listenbrainz/).
